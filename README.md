@@ -15,11 +15,9 @@
 
 -Git e GitHub
 
-Também estudo conteúdos de *cibersegurança,* redes e funcionamento de sistemas para ampliar minha base técnica.
-
 ---
 
-## Minha página de estudante:
+## Sobre mim:
 
 <p align="left">
   <a href="https://github.com/niya6629-boop">
@@ -32,3 +30,15 @@ Também estudo conteúdos de *cibersegurança,* redes e funcionamento de sistema
     <img src="https://img.shields.io/badge/YouTube-NielOFC-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
+
+## 🚀 Filosofia
+
+<i>“Fides quaerens intellectum.”</i>
+(Fé que busca entendimento.)
