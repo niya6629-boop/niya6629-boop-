@@ -31,7 +31,7 @@
   </a>
 </p>
 
-## <a href="https://github.com/niya6629-boop/exercicios-pw"> 📚 Atividades da etec>
+## <a href="https://github.com/niya6629-boop/exercicios-pw"📚 Atividades da etec> 
 
 ## 🚀 Filosofia
 
